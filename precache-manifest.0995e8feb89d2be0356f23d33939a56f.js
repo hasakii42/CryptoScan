@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "17e1b87eb5fe3b5c0012",
+    "revision": "0e39e5145d17f1cdfb04",
     "url": "/CryptoScan/static/css/main.63057b40.chunk.css"
   },
   {
-    "revision": "17e1b87eb5fe3b5c0012",
-    "url": "/CryptoScan/static/js/main.17e1b87e.chunk.js"
+    "revision": "0e39e5145d17f1cdfb04",
+    "url": "/CryptoScan/static/js/main.0e39e514.chunk.js"
   },
   {
-    "revision": "5a3ad488897027c6435a",
-    "url": "/CryptoScan/static/css/1.4429990d.chunk.css"
+    "revision": "db1e22c2f2c16c2af2f8",
+    "url": "/CryptoScan/static/css/1.705b3eaa.chunk.css"
   },
   {
-    "revision": "5a3ad488897027c6435a",
-    "url": "/CryptoScan/static/js/1.5a3ad488.chunk.js"
+    "revision": "db1e22c2f2c16c2af2f8",
+    "url": "/CryptoScan/static/js/1.db1e22c2.chunk.js"
   },
   {
     "revision": "85d613812d5467759fec",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/CryptoScan/static/media/logo.06825633.png"
   },
   {
-    "revision": "0e213db57026d369d3cc613fb3bafcbf",
+    "revision": "fc4feced5987372a98799b997a0c9721",
     "url": "/CryptoScan/index.html"
   }
 ];
